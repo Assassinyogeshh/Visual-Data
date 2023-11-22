@@ -1,0 +1,10 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore your configuration file
+config.env
+
+
+seedData.js
+
+d3.json
